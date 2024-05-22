@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Output
+
+<img width="960" alt="Final_Site_ (1)" src="https://github.com/get-aastha/tutedude_reactjs/assets/108509128/1a3d6b01-edee-481e-b6cd-b2dc07a916da">
+
+<img width="960" alt="Final_Site_ (2)" src="https://github.com/get-aastha/tutedude_reactjs/assets/108509128/630ea5d8-d11e-4539-afc6-83a775e8f134">
+
+<img width="960" alt="Final_Site_ (3)" src="https://github.com/get-aastha/tutedude_reactjs/assets/108509128/3414fb74-7ac1-4312-9654-097bd7ba28d1">
+
 ## Available Scripts
 
 In the project directory, you can run:
